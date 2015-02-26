@@ -1,3 +1,3 @@
-## Yo, I'm a Readme
+## Introduction to Backbone.js
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+A very basic library app and my first attempt at any project using Backbone.js
